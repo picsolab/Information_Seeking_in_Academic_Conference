@@ -20,13 +20,7 @@ Total number of unlabeled information seeking tweets: 9,967
 ## Publication
 
 If you make use of this data set, please cite:
-Xidao Wen, Yu-Ru Lin, Christoph Trattner, and Denis Parra. 2014. Twitter in academic conferences: usage, networking and participation over time. In Proceedings of the 25th ACM conference on Hypertext and social media (HT '14). ACM, New York, NY, USA, 285-290. DOI=http://dx.doi.org/10.1145/2631775.2631826
-
-Wen, Xidao, and Yu-Ru Lin. "Tweeting Questions in Academic Conferences: Seeking or Promoting Information?." iConference 2015 Proceedings (2015).
-
 Wen, X., & Lin, Y. R. (2015, November). Information Seeking and Responding Networks in Physical Gatherings: A Case Study of Academic Conferences in Twitter. In Proceedings of the 2015 ACM on Conference on Online Social Networks (pp. 197-208). ACM.
-
-Wen, X., Lu, D., Lin, Y. R., & López, C. (2016, November). The Roles of Information Seeking Dynamics in Sustaining the Community Participation. In Collaboration and Internet Computing (CIC), 2016 IEEE 2nd International Conference on (pp. 357-362). IEEE.
 
 
 
