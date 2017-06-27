@@ -4,8 +4,11 @@
 The data sets released here has been used in our a study on longitudinal information seeking and social networking behaviors across academic communities. Social media like Twitter have been widely used in physical gatherings, such as conferences and sports events, as a "backchannel" to facilitate the conversations among participants. It has remained largely unexplored though, how event participants seek information in those situations. 
 There are three key results: 
 (1) Our study takes the first initiative to characterize the information seeking and responding networks in a concrete context---academic conferences---as one example of physical gatherings. By studying over 190 thousand tweets posted by 66 academic communities over five years, we unveil the landscape of information-seeking activities and the associated social and temporal contexts during the conferences.
+
 (2) We leverage crowdsourcing and machine learning techniques to identify distinct types of information-seeking tweets in academic communities. We show that the information needs can be differentiated by their posted time and content, as well as how they were responded to. Interestingly, users' tendencies of posting certain types of information needs can be inferred by prior tweeting activities and network positions. 
+
 (3) Moreover, our results suggest it is also possible to predict the potential respondents to different types of information needs. 
+
 
 Our study was based on two data sets: (1) a long-term collection of tweets posted by 66 academic communities over five years, and (2) a subset of information-seeking tweets with human annotated labels (the types of questions). We are making the data sets available for academic researchers and public use, to enable the disovery of new insights and development of better techniques to facilitate information seeking.
 ## Data
