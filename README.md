@@ -24,7 +24,7 @@ Total number of tweets:  334,507
 
 Dataset (2):
 
-We further identify the information seeking tweets by checking whether the tweet contains the question mark (?) in its text. From here, we design the information seeking question categorization and develop the code book to help human subjects identify the question type. The human annotation are obtained from Amazon Mechanical Turk. Based on the human annotations, we train machine classifiers to identify the question types for the rest of information seeking tweets.
+We further identify the information seeking tweets by checking whether the tweet contains the question mark (?) in its text. We then design the information seeking question categorization and develop the code book to help human subjects identify the question type. The human annotations are obtained from Amazon Mechanical Turk. Based on the human annotations, we train machine classifiers to identify the question types for the rest of information seeking tweets.
 
 Duration: 2008 to 2013
 
