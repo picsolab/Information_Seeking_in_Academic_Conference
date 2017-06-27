@@ -1,8 +1,12 @@
 
 ## Abstract
 
-With the allure of immediacy, social media like Twitter have been widely used in physical gatherings as a "backchannel" to facilitate the conversations among participants. Studies have been centered around identifying the characteristics of such collective activities in different event settings. It has remained largely unexplored though, how event participants seek information in those situations. On the other hand, studies that examine information seeking in social media have not addressed the information needs in a particular social context. This study takes the first initiative to characterize the information seeking and responding networks in a concrete context---academic conferences---as one example of physical gatherings. By studying over 190 thousand tweets posted by 66 academic communities over five years, we unveil the landscape of information-seeking activities and the associated social and temporal contexts during the conferences. We leverage crowdsourcing and machine learning techniques to identify distinct types of information-seeking tweets in academic communities. We show that the information needs can be differentiated by their posted time and content, as well as how they were responded to. Interestingly, users' tendencies of posting certain types of information needs can be inferred by prior tweeting activities and network positions. Moreover, our results suggest it is also possible to predict the potential respondents to different types of information needs. Our study has implications for understanding the design of social search engines that facilitate the information seeking and responding in physical gatherings.
+The data sets released here has been used in our a study on longitudinal information seeking and social networking behaviors across academic communities. Social media like Twitter have been widely used in physical gatherings, such as conferences and sports events, as a "backchannel" to facilitate the conversations among participants. It has remained largely unexplored though, how event participants seek information in those situations. There are three key results: 
+(1) Our study takes the first initiative to characterize the information seeking and responding networks in a concrete context---academic conferences---as one example of physical gatherings. By studying over 190 thousand tweets posted by 66 academic communities over five years, we unveil the landscape of information-seeking activities and the associated social and temporal contexts during the conferences.
+(2) We leverage crowdsourcing and machine learning techniques to identify distinct types of information-seeking tweets in academic communities. We show that the information needs can be differentiated by their posted time and content, as well as how they were responded to. Interestingly, users' tendencies of posting certain types of information needs can be inferred by prior tweeting activities and network positions. 
+(3) Moreover, our results suggest it is also possible to predict the potential respondents to different types of information needs. 
 
+Our study was based on two data sets: (1) a long-term collection of tweets posted by 66 academic communities over five years, and (2) a subset of information-seeking tweets with human annotated labels (the types of questions). We are making the data sets available for academic researchers and public use, to enable the disovery of new insights and development of better techniques to facilitate information seeking.
 ## Data
 
 The conference tweets are collected through keywords search using Topsy API in 2014. The keywords vary for each conference and each year, but typically include two parts in the text and follow the format of "Conference Acronym"+"Year". For example, the International World Wide Web Conference in the year of 2013 would have the hashtag as "www2013". 
@@ -20,6 +24,7 @@ Total number of unlabeled information seeking tweets: 9,967
 ## Publication
 
 If you make use of this data set, please cite:
+
 Wen, X., & Lin, Y. R. (2015, November). Information Seeking and Responding Networks in Physical Gatherings: A Case Study of Academic Conferences in Twitter. In Proceedings of the 2015 ACM on Conference on Online Social Networks (pp. 197-208). ACM.
 
 
