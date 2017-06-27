@@ -15,10 +15,14 @@ There are three key results:
 Our study was based on two data sets: (1) a long-term collection of tweets posted by 66 academic communities over five years, and (2) a subset of information-seeking tweets with human annotated labels (the types of questions). We are making the data sets available for academic researchers and public use, to enable the disovery of new insights and development of better techniques to facilitate information seeking.
 ## Data
 
+Dataset (1):
+
 The conference tweets are collected through keywords search using Topsy API in 2014. The keywords vary for each conference and each year, but typically include two parts in the text and follow the format of "Conference Acronym"+"Year". For example, the International World Wide Web Conference in the year of 2013 would have the hashtag as "www2013". 
 
 Duration: 2008 to 2013
 Total number of tweets:  334,507
+
+Dataset (2):
 
 We further identify the information seeking tweets by checking whether the tweet contains the question mark (?) in its text. From here, we design the information seeking question categorization and develop the code book to help human subjects identify the question type. The human annotation are obtained from Amazon Mechanical Turk. Based on the human annotations, we train machine classifiers to identify the question types for the rest of information seeking tweets.
 
